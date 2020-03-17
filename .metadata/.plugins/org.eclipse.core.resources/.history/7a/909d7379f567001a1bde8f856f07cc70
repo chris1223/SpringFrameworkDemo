@@ -1,0 +1,17 @@
+package lab1;
+
+public class Multiplier implements Calculator {
+
+	@Override
+	public int calculate(int input1, int input2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String getSymbol() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
